@@ -1,9 +1,14 @@
 # Cybersecurity-Labs
 
-Cybersecurity-Labs
-│
-├── Splunk
-├── Wireshark
-├── Nmap
-├── Event-Viewer
-└── Network-Analysis
+
+
+A collection of cybersecurity experiments, practical labs, and network analysis notes.
+
+## Repository Structure
+
+* Splunk
+* Wireshark
+* Nmap
+* Event Viewer
+* Network Analysis
+
