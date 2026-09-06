@@ -1,6 +1,6 @@
 # Firewall Basics
 
-This folder contains practical notes and experiments based on enterprise firewall concepts.
+This folder contains how much i have completed my concepts and practicals based on enterprise firewall concepts.
 
 ## Topics Covered
 
